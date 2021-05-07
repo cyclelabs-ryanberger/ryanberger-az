@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanberger-az
-- 👀 I’m interested in ... Azure automation, Azure Kubernetes Servies, Helm, Terraform, Docker, etc
-- 🌱 I’m currently learning ... AKS, Helm,
+- 👀 I’m interested in ... Azure automation, Azure Kubernetes Servies, Jenkins, Helm, Terraform, Docker, etc.
+- 🌱 I’m currently learning ... AKS, Helm, Jenkins, automated testing... and of course, more Azure automation!
 - 📫 How to reach me ... ryan.berger at tryonsolutions dot com
 
 <!---
